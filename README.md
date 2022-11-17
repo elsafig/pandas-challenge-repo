@@ -9,21 +9,21 @@ Hint: Check out the sample solution called PyCitySchools_starter.ipynb located i
 District Summary
 Create a high-level snapshot of the district's key metrics in a DataFrame, including the following:
 
-Total schools
+x Total schools
 
-Total students
+x Total students
 
-Total budget
+x Total budget
 
-Average math score
+x Average math score
 
-Average reading score
+x Average reading score
 
-% passing math (the percentage of students who passed math)
+/ % passing math (the percentage of students who passed math)
 
-% passing reading (the percentage of students who passed reading)
+/ % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed math AND reading)
+/ % overall passing (the percentage of students who passed math AND reading)
 
 School Summary
 Create a DataFrame that summarizes key metrics about each school, including the following:
