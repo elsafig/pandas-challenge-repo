@@ -6,7 +6,7 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 
 Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.
 
-District Summary
+xDistrict Summary
 Create a high-level snapshot of the district's key metrics in a DataFrame, including the following:
 
 x Total schools
@@ -19,88 +19,88 @@ x Average math score
 
 x Average reading score
 
-/ % passing math (the percentage of students who passed math)
+x % passing math (the percentage of students who passed math)
 
-/ % passing reading (the percentage of students who passed reading)
+x % passing reading (the percentage of students who passed reading)
 
-/ % overall passing (the percentage of students who passed math AND reading)
+x % overall passing (the percentage of students who passed math AND reading)
 
-School Summary
+xSchool Summary
 Create a DataFrame that summarizes key metrics about each school, including the following:
 
-School name
+x School name
 
-School type
+x School type
 
-Total students
+x Total students
 
-Total school budget
+x Total school budget
 
-Per student budget
+x Per student budget
 
-Average math score
+x Average math score
 
-Average reading score
+x Average reading score
 
-% passing math (the percentage of students who passed math)
+x % passing math (the percentage of students who passed math)
 
-% passing reading (the percentage of students who passed reading)
+x % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed math AND reading)
+x % overall passing (the percentage of students who passed math AND reading)
 
-Highest-Performing Schools (by % Overall Passing)
+x Highest-Performing Schools (by % Overall Passing)
 Create a DataFrame that highlights the top-5 performing schools based on % Overall Passing. Include the following metrics:
 
-School name
+x School name
 
-School type
+x School type
 
-Total students
+x Total students
 
-Total school budget
+x Total school budget
 
-Per student budget
+x Per student budget
 
-Average math score
+x Average math score
 
-Average reading score
+x Average reading score
 
-% passing math (the percentage of students who passed math)
+x % passing math (the percentage of students who passed math)
 
-% passing reading (the percentage of students who passed reading)
+x % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed math AND reading)
+x % overall passing (the percentage of students who passed math AND reading)
 
-Lowest-Performing Schools (by % Overall Passing)
+x Lowest-Performing Schools (by % Overall Passing)
 Create a DataFrame that highlights the bottom-5 performing schools based on % Overall Passing. Include the following metrics:
 
-School name
+x School name
 
-School type
+x School type
 
-Total students
+x Total students
 
-Total school budget
+x Total school budget
 
-Per student budget
+x Per student budget
 
-Average math score
+x Average math score
 
-Average reading score
+x Average reading score
 
-% passing math (the percentage of students who passed math)
+x % passing math (the percentage of students who passed math)
 
-% passing reading (the percentage of students who passed reading)
+x % passing reading (the percentage of students who passed reading)
 
-% overall passing (the percentage of students who passed math AND reading)
+x % overall passing (the percentage of students who passed math AND reading)
 
-Math Scores by Grade
+x Math Scores by Grade
 Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-Reading Scores by Grade
+x Reading Scores by Grade
 Create a DataFrame that lists the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-Scores by School Spending
+o Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student). Use your judgment to create four bins with reasonable cutoff values to group school spending. Include the following metrics in the table:
 
 Average math score
@@ -113,8 +113,8 @@ Average reading score
 
 % overall passing (the percentage of students who passed math AND reading)
 
-Scores by School Size
+o Scores by School Size
 Create a table that breaks down school performance based on school size (small, medium, or large).
 
-Scores by School Type
+o Scores by School Type
 Create a table that breaks down school performance based on school type (district or charter).
